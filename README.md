@@ -2,6 +2,12 @@
 
 Simple ssh client in Go to run several commands in remote host
 
+## Installation
+
+```
+go get github.com/williamchanrico/go-sshc
+```
+
 ## Example
 
 ```go
